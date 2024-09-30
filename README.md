@@ -5,13 +5,12 @@ Welcome to my portfolio website! This site showcases my projects, skills, and ex
 
 ## Table of Contents
 
+## Table of Contents
+
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contact](#contact)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
